@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+    
+    <!-- drop down list header font color -->
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#000000</color>
+    
+    <color name="col_white">#fffffb</color>		<!-- 白色 -->
+    <color name="col_black">#000000</color>		<!-- 黑色 -->
+    <color name="col_huibai">#d9d6c3</color>	<!-- 灰白 -->
+    <color name="col_taofen">#f58f98</color>	<!-- 桃粉 -->
+    <color name="col_juhuang">#f58220</color>	<!-- 橘黄色 -->
+    <color name="col_chihong">#ed1941</color>	<!-- 赤红色 -->
+    <color name="col_chashu">#9d9087</color>	<!-- 茶鼠色 -->
+    <color name="col_blue">#145b7d</color>		<!-- 蓝色 -->
+    <color name="col_yellow">#ffd400</color>	<!-- 黄色 -->
+    <color name="col_chizi">#f173ac</color>		<!-- 赤紫色 -->
+    <color name="col_green">#45b97c</color>		<!-- 绿色 -->
+    <color name="col_shizhu">#d1c7b7</color>	<!-- 石竹色 -->
+    <color name="col_qingse">#009ad6</color>	<!-- 青色 -->
+    <color name="col_caose">#225a1f</color>		<!-- 草色 -->
+    <color name="col_huangtuse">#ba8448</color>	<!-- 黄土色 -->
+    <color name="col_kuyese">#896a45</color>	<!-- 枯叶色 -->
+    <color name="col_ruolu">#7fb80e</color>		<!-- 若绿色 -->
+    <color name="col_tailv">#5c7a29</color>		<!-- 苔色 -->
+    <color name="col_xiaomaise">#df9464</color>	<!-- 小麦色 -->
+    <color name="col_hupose">#b76f40</color>	<!-- 琥珀色 -->
+    <color name="col_zise">#8552a1</color>		<!-- 紫色 -->
+    <color name="col_zigan">#411445</color>		<!-- 紫绀 -->
+    <color name="col_lvqingse">#40835e</color>	<!-- 绿青色 -->
+    <color name="col_shenlvse">#005831</color>	<!-- 深绿色 -->
+    <color name="col_jinse">#c37e00</color>		<!-- 金色 -->
+    <color name="col_jincha">#e0861a</color>	<!-- 金茶 -->
+    <color name="col_danhuise">#DCDCDC</color> <!-- 淡灰色 -->
+    <color name="col_chocolate">#D2691E</color> <!-- 巧克力色 -->
+    <color name="col_ziluolan">#EE82EE</color>  <!-- 紫罗兰色 -->
+    <color name="col_red">#FF0000</color>		<!-- 红色 -->
+    <color name="col_huise">#DBDBDB</color>     <!-- 灰色 -->
+    <color name="col_bottom_red">#e63b53</color><!-- 底部导航红色 -->
+    
+    <color name="touming">#00000000</color>
+</resources>
